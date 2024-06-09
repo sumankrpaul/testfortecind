@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6659c09aba45f10c6865a82f"
+  },
+  "name": "Leanne Graham",
+  "username": "Bret",
+  "email": "Sincere@april.biz"
+},
+{
+  "_id": {
+    "$oid": "6659c09aba45f10c6865a831"
+  },
+  "name": "Ervin Howell",
+  "username": "Antonette",
+  "email": "Shanna@melissa.tv"
+},
+{
+  "_id": {
+    "$oid": "6659c09aba45f10c6865a833"
+  },
+  "name": "Clementine Bauch",
+  "username": "Samantha",
+  "email": "Nathan@yesenia.net"
+},
+{
+  "_id": {
+    "$oid": "6659c09aba45f10c6865a835"
+  },
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org"
+}]

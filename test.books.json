@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "666550bbc57a25e06cfc09a2"
+  },
+  "bookId": "book1",
+  "bookName": "First Book"
+},
+{
+  "_id": {
+    "$oid": "66655115c57a25e06cfc09a3"
+  },
+  "bookId": "book2",
+  "bookName": "Second Book"
+},
+{
+  "_id": {
+    "$oid": "66655122c57a25e06cfc09a4"
+  },
+  "bookId": "book3",
+  "bookName": "Third Book"
+}]

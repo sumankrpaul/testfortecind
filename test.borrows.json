@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "66655410c57a25e06cfc09b4"
+  },
+  "bookId": {
+    "$oid": "666550bbc57a25e06cfc09a2"
+  },
+  "userId": {
+    "$oid": "6659c09aba45f10c6865a82f"
+  },
+  "borrowDate": {
+    "$date": "2024-06-09T04:45:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2024-06-14T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66655513c57a25e06cfc09b5"
+  },
+  "bookId": {
+    "$oid": "66655115c57a25e06cfc09a3"
+  },
+  "userId": {
+    "$oid": "6659c09aba45f10c6865a82f"
+  },
+  "borrowDate": {
+    "$date": "2024-06-09T04:45:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2024-06-17T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66655530c57a25e06cfc09b6"
+  },
+  "bookId": {
+    "$oid": "66655115c57a25e06cfc09a3"
+  },
+  "userId": {
+    "$oid": "6659c09aba45f10c6865a837"
+  },
+  "borrowDate": {
+    "$date": "2024-06-07T04:45:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2024-06-17T04:45:00.000Z"
+  }
+}]
